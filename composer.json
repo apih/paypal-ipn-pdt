@@ -1,6 +1,6 @@
 {
 	"name": "apih/paypal-ipn-pdt",
-	"description": "A PHP wrapper for PayPal PDT & IPN API",
+	"description": "A PHP wrapper for PayPal IPN & PDT API",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
